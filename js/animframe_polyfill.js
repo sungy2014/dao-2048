@@ -1,3 +1,4 @@
+#测试修改此文件会有什么效果
 (function () {
   var lastTime = 0;
   var vendors = ['webkit', 'moz'];
